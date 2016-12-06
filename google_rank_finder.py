@@ -3,7 +3,7 @@
 
 ### You feed a keyword and a domain to this script and it tells you if any page
 ### of the given domain is ranking on Google and at which position.
-
+###
 
 import urllib
 import http.client
